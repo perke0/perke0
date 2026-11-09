@@ -1,67 +1,35 @@
-# Hi, I’m Matija
+I'm a developer who enjoys understanding how things work, experimenting with ideas, and building things along the way.
 
-I’m a developer who enjoys building, breaking, and rethinking things.
+I mainly work with **Rust, C, C++, and Python**. Rust is currently my favorite, mostly because I enjoy the way it makes me think about memory, safety, and how software is designed.
 
-I program in **Rust, C, C++, and Python**, with **Rust being my favorite**, not because I’ve mastered it, but because it constantly challenges how I think about correctness, safety, and design.
+I'm still learning, and I don't pretend to know everything. I just enjoy digging into things, trying different approaches, and figuring out why something works the way it does.
 
-I wouldn’t call myself an elite programmer yet, but I *do* consider myself someone who loves **innovation**, experimentation, and asking *why things work the way they do*.
+## What I'm interested in
 
----
+- **Systems programming** and performance
+- Low-level programming, memory management, and computer architecture
+- Algorithms and problem solving
+- Hardware and the connection between software and the physical world
+- Exploring unconventional ideas and approaches
 
-## What I care about
+I tend to be curious about what's happening under the hood rather than just using something without understanding it.
 
-My main interests revolve around:
-- **Systems programming and performance**
-- **Low level concepts** (memory, bits, hardware behavior)
-- **Algorithms and unconventional approaches**
-- **Technology and hardware**, especially where software meets the physical world
+## My approach
 
-I’m drawn to problems where common solutions feel “good enough” and I want to see if they can be done differently.
+I like experimenting, questioning things that are usually taken for granted, and finding out whether there's a better way to do something.
 
----
+I'm not particularly interested in following trends or using a technology just because it's popular. I'd rather understand the problem first and then figure out the right way to approach it.
 
-## How I think
+I also believe that some of the best ways to learn are to build something yourself, make mistakes, and occasionally break things in the process.
 
-My niche is **critical thinking**.
+## What you'll find here
 
-I like:
-- questioning assumptions
-- exploring edge cases
-- experimenting instead of blindly following patterns
-- understanding trade-offs, not just APIs
+Most of my repositories are personal projects, experiments, and ideas I'm exploring.
 
-For me, innovation isn’t about hype it’s about **challenging defaults** and rebuilding ideas from first principles.
+Some are practical, others are just ways to learn something new or see how far I can take an idea. Not everything is finished or polished, but that's part of the process.
 
----
+## Languages & interests
 
-## BeyondTheRock
-
-I run a Reddit community called **BeyondTheRock**, where I try to motivate people to **challenge established rules**, think independently, and start creating new ideas the same way innovation happened in earlier generations.
-
-The goal isn’t to ignore best practices, but to **understand them deeply enough to know when and why to move beyond them**.
-
----
-
-## What you’ll find here
-
-Most of my projects are:
-- experimental
-- research driven
-- performance- or idea focused
-- built to learn something specific
-
-They may not always be polished products, but they are honest attempts to push my understanding forward.
-
----
-
-## Tools & languages
-
-- **Languages:** Rust, C, C++, Python  
-- **Interests:** systems, algorithms, performance, hardware aware code
-- **Approach:** learn by building, measuring, and iterating
-
----
-
-I’m here to grow, to experiment, and to build things that make me think.
-
-Thanks for stopping by.
+- **Languages:** Rust, C, C++, Python
+- **Main interests:** Systems programming, algorithms, performance, hardware
+- **Currently:** Learning, experimenting, and building things.
